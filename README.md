@@ -88,6 +88,13 @@ El sistema genera una **confirmación en formato PDF** y envía un **correo elec
 ## 📸 Capturas de Pantalla
 
 > *(Agrega capturas del login, CRUD y agendado de citas para mostrar funcionamiento)*
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e77fcdc4-6928-4072-a48b-0cf56db99f47" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b12dbf1b-7f83-41f2-9497-a23017c5ace8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b1d9d4b-8d8b-44d8-8a3e-fbfed880edd8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7945422c-a20b-4509-906b-e6232a58de0e" />
+
+
+
 
 ---
 
