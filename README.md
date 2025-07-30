@@ -22,8 +22,8 @@ El sistema genera una **confirmación en formato PDF** y envía un **correo elec
 
 ## 🛠 Librerías y Componentes Externos
 - **Librerías Externas:**
-  - 📧 Librería de envío de correo (Equipo 2)  
-    https://github.com/olmomomo/Libreria_correoElectronico
+  - 📧 Librería de envío de correo (Equipo 2)
+  - https://github.com/olmomomo/Libreria_correoElectronico
   - 🔑 Librería CAPTCHA (Equipo 2)  
     https://github.com/FanyBr07/ComponenteVisual?tab=readme-ov-file 
 - **Otras librerías:** Incluidas en la carpeta `/librerias` del proyecto  
